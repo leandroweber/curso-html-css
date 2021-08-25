@@ -1,0 +1,6 @@
+byte 01000001 = A em utf-8
+
+MB megabytes - armazenamento
+Mb megabits - transmissao
+
+https://www.iplocation.net/
